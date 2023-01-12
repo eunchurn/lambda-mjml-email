@@ -38,7 +38,7 @@
     "@aws-sdk/client-lambda": "^3.224.0",
     "@aws-sdk/client-ses": "^3.224.0",
     "@eunchurn/eslint-config": "^0.1.11",
-    "@eunchurn/prettier-config": "^0.0.4",
+    "@eunchurn/prettier-config": "^0.0.5",
     "@types/aws-lambda": "^8.10.109",
     "@types/ejs": "^3.1.1",
     "@types/html-minifier": "^4.0.2",
